@@ -1,4 +1,5 @@
-
+# Follow more on TTeach channel on youtube
+##I am Ethiopian <<Tessema Ayele>> Data scientist at JU/WCU
 import streamlit as st
 import pandas as pd 
 #Db management
